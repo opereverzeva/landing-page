@@ -1,0 +1,32 @@
+{
+  "name": "landinge-page",
+  "version": "1.0.0",
+  "description": "Демка лэндинга по бесплатному макету из psd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opereverzeva/landinge-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/opereverzeva/landinge-page/issues"
+  },
+  "homepage": "https://github.com/opereverzeva/landinge-page#readme",
+  "dependencies": {
+    "normalize.css": "^8.0.1",
+    "parcel": "^1.12.3"
+  },
+  "devDependencies": {
+    "@westtrade/posthtml-custom-elements": "0.0.2",
+    "autoprefixer": "^9.5.1",
+    "posthtml-expressions": "^1.1.0",
+    "posthtml-extend": "^0.3.0",
+    "posthtml-modules": "^0.4.2",
+    "stylus": "^0.54.5"
+  }
+}

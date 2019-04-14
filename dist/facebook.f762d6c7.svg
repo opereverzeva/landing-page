@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 18" width="10" height="18">
+	<defs>
+		<image width="50" height="90" id="img1" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MCA5MCIgd2lkdGg9IjUwIiBoZWlnaHQ9IjkwIj4KCTxkZWZzPgoJCTxjbGlwUGF0aCBjbGlwUGF0aFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgaWQ9ImNwMSI+CgkJCTxwYXRoIGQ9Ik0wIDBMNTAgMEw1MCA5MEwwIDkwWiIgLz4KCQk8L2NsaXBQYXRoPgoJPC9kZWZzPgoJPHN0eWxlPgoJCXRzcGFuIHsgd2hpdGUtc3BhY2U6cHJlIH0KCQkuc2hwMCB7IGZpbGw6ICMwMDAwMDAgfSAKCTwvc3R5bGU+Cgk8ZyBpZD0iUGFnZSAxIiBjbGlwLXBhdGg9InVybCgjY3AxKSI+CgkJPHBhdGggaWQ9IlBhdGggMSIgY2xhc3M9InNocDAiIGQ9Ik01MCwwaC0xNC4yOGMtMTEuODIsMCAtMjAuNDMsMTAuMDkgLTIwLjQzLDIyLjV2OC42NWgtMTUuMjh2MTQuN2gxNS4yOHY0NC4xNWgxNi44NnYtNDQuMTVoMTcuODZ2LTE0LjdoLTE3Ljg2di0xMC4zMmMwLC0yLjk3IDEuODksLTUuMTkgMy41NywtNS4xOWgxNC4yOHoiIC8+Cgk8L2c+Cjwvc3ZnPg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Footer">
+		<g id="Social Icons">
+			<use id="facebook" href="#img1" transform="matrix(0.2,0,0,0.2,0,0)"/>
+		</g>
+	</g>
+</svg>

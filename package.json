@@ -4,6 +4,7 @@
   "description": "Демка лэндинга по бесплатному макету из psd",
   "main": "index.js",
   "scripts": {
+    "build": "parcel build ./src/html/index.html --public-url '.'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
